@@ -1,0 +1,4 @@
+torchvision
+efficientnet_pytorch
+tqdm
+Pillow
