@@ -2,3 +2,10 @@ torchvision
 efficientnet_pytorch
 tqdm
 Pillow
+
+accelerate
+bitsandbytes
+sentencepiece
+
+
+
