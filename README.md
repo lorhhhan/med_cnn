@@ -1,4 +1,4 @@
-# Intelligent Medical Image Classification and Consultation System
+# Medical Image Classification and Consultation System
 
 This project implements a lightweight intelligent medical consultation platform. It integrates disease image classification, uncertainty-aware fallback to vision-language models (MiniGPT-4), and optional integration with language models like ChatGLM or Vicuna-7B for follow-up consultation.
 
